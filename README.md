@@ -1,6 +1,5 @@
 ### Hello There 👋
-<br>
-Hello There 👋<br>I am Dev, an electronics engineering undergrad at IOE, Pulchowk Campus.
+<br>I am Dev, an electronics engineering undergrad at IOE, Pulchowk Campus.
 
 
 ## 🌐 Socials:
